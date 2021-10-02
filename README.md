@@ -1,7 +1,7 @@
 
 # Hi, I'm Kelli Blalock! 👋
 
-I'm currently a Software Engineer at Microsoft. The projects in my repository are my personal projects unless they're a fork.
+I'm currently a Software Engineer at Microsoft. You'll mostly find my personal projects here, and a few forks.
   
 ## 🛠 Skills
 Javascript, React, C++, Python, HTML, CSS
