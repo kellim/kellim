@@ -1,7 +1,7 @@
 
 # Hi, I'm Kelli Blalock! 👋
 
-I'm currently a Software Engineer at Microsoft. Most of my repositories on GitHub are personal and were used for learning. I have also made a few open source contributions.
+Most of my repositories on GitHub are personal and were used for learning. I have also made a few open source contributions.
 
 <a href="https://github.com/kellim">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kellim&theme=material-palenight" />
